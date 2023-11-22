@@ -1,0 +1,9 @@
+main {
+    background-color: #FCC8C2;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+article {
+    background-color: #FF87AB;
+}
